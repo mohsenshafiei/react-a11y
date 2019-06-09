@@ -1,0 +1,49 @@
+{
+  "name": "react-a11y",
+  "version": "0.0.0",
+  "description": "react accessibility best practices.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server --config webpack.dev.js",
+    "build": "webpack --config webpack.prod.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohsenshafiei/react-a11y.git"
+  },
+  "keywords": [
+    "react-a11y",
+    "react-accessibility",
+    "react",
+    "accessibility",
+    "a11y",
+    "a11y-react",
+    "anomaly"
+  ],
+  "author": "Mohsen Shafiei Tafreshi <mohsenshafieitafreshi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mohsenshafiei/react-a11y/issues"
+  },
+  "homepage": "https://github.com/mohsenshafiei/react-a11y#readme",
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.6",
+    "css-loader": "^2.1.1",
+    "html-webpack-plugin": "^3.2.0",
+    "mini-css-extract-plugin": "^0.7.0",
+    "node-sass": "^4.12.0",
+    "quark-loader": "^1.2.1",
+    "sass-loader": "^7.1.0",
+    "webpack": "^4.32.2",
+    "webpack-cli": "^3.3.2",
+    "webpack-dev-server": "^3.7.1",
+    "webpack-merge": "^4.2.1"
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
