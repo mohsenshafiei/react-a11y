@@ -19,7 +19,8 @@
     "accessibility",
     "a11y",
     "a11y-react",
-    "anomaly"
+    "anomaly",
+    "react-wcag"
   ],
   "author": "Mohsen Shafiei Tafreshi <mohsenshafieitafreshi@gmail.com>",
   "license": "MIT",
