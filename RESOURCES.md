@@ -17,7 +17,7 @@
 
 [WebAIM Colour Contrast Checker](https://webaim.org/resources/contrastchecker/)
 
-[W3C Easy Checks]https://www.w3.org/WAI/eval/preliminary)
+[W3C Easy Checks](https://www.w3.org/WAI/eval/preliminary)
 
 [Colorable](http://jxnblk.com/colorable/)
 
