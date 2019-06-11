@@ -6,3 +6,5 @@
 [Disabilities and their accessibility ideas](https://github.com/mohsenshafiei/react-a11y/blob/master/DISABILITIES.md)
 
 [A11Y presentation](https://github.com/mohsenshafiei/react-a11y/blob/master/slides/A11Y.pdf)
+
+[Resources](https://github.com/mohsenshafiei/react-a11y/blob/master/RESOURCES.md)
