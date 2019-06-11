@@ -1,4 +1,4 @@
-## FRONT-END CHECKLIST
+## A11Y Checklist
 
 - Add text alternative to all of your images
 - Add a text alternative to your video and audio
